@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "json-server": "^1.0.0-alpha.11",
+    "npx": "^10.2.2"
+  }
+}
